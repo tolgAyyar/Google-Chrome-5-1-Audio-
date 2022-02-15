@@ -1,0 +1,11 @@
+WebRTC multi-channel capture audio processing.
+Support in WebRTC for processing capture audio in multi channel without downmixing when running APM in the render process. – Mac, Windows, Linux, Chrome OS, Android, Fuchsia
+
+#enable-webrtc-capture-multi-channel-audio-processing
+
+
+Enabled
+MediaFoundation for Clear
+Enable/Disable the use of MediaFoundation for non-protected content playback on supported systems. – Windows
+
+#enable-media-foundation-clear
