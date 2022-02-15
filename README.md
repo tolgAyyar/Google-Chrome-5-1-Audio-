@@ -4,5 +4,5 @@ Open Google Chrome
 write to chrome://flags/
 Active a two option
  1 - #enable-webrtc-capture-multi-channel-audio-processing
- 2  - #enable-media-foundation-clear
+ 2  - #enable-media-foundation-clearCancel changes
  well done 
